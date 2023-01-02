@@ -1,0 +1,216 @@
+2022-12-29 16:44:36,214 =====EPOCH 0=====
+2022-12-29 16:44:52,013 Epoch: 0 	Batch 0: {'loss': 0.7344549894332886, 'reconstruction_output_loss': 1.0396450757980347, 'classification_output_loss': 0.658157467842102}
+2022-12-29 16:46:54,468 Epoch: 0 	Batch 100: {'loss': 0.27372270822525024, 'reconstruction_output_loss': 0.08143523335456848, 'classification_output_loss': 0.3217945694923401}
+2022-12-29 16:48:52,695 Epoch: 0 	Batch 200: {'loss': 0.29755234718322754, 'reconstruction_output_loss': 0.0695735439658165, 'classification_output_loss': 0.35454705357551575}
+2022-12-29 16:50:51,049 Epoch: 0 	Batch 300: {'loss': 0.42552635073661804, 'reconstruction_output_loss': 0.06140422075986862, 'classification_output_loss': 0.5165568590164185}
+2022-12-29 16:52:49,749 Epoch: 0 	Batch 400: {'loss': 0.40855297446250916, 'reconstruction_output_loss': 0.07417385280132294, 'classification_output_loss': 0.4921477437019348}
+2022-12-29 16:54:47,895 Epoch: 0 	Batch 500: {'loss': 0.4373433291912079, 'reconstruction_output_loss': 0.07058582454919815, 'classification_output_loss': 0.5290327072143555}
+2022-12-29 16:56:45,707 Epoch: 0 	Batch 600: {'loss': 0.46657589077949524, 'reconstruction_output_loss': 0.08803544193506241, 'classification_output_loss': 0.5612109899520874}
+2022-12-29 16:58:44,068 Epoch: 0 	Batch 700: {'loss': 0.4459807574748993, 'reconstruction_output_loss': 0.06474260240793228, 'classification_output_loss': 0.541290283203125}
+2022-12-29 17:00:43,183 Epoch: 0 	Batch 800: {'loss': 0.2962972819805145, 'reconstruction_output_loss': 0.0689072534441948, 'classification_output_loss': 0.3531447649002075}
+2022-12-29 17:02:41,505 Epoch: 0 	Batch 900: {'loss': 0.3731328845024109, 'reconstruction_output_loss': 0.07769633084535599, 'classification_output_loss': 0.44699203968048096}
+2022-12-29 17:04:40,077 Epoch: 0 	Batch 1000: {'loss': 0.3782689571380615, 'reconstruction_output_loss': 0.06102112680673599, 'classification_output_loss': 0.45758089423179626}
+2022-12-29 17:06:38,230 Epoch: 0 	Batch 1100: {'loss': 0.38840416073799133, 'reconstruction_output_loss': 0.07744421064853668, 'classification_output_loss': 0.4661441445350647}
+2022-12-29 17:08:36,464 Epoch: 0 	Batch 1200: {'loss': 0.30309030413627625, 'reconstruction_output_loss': 0.0671713724732399, 'classification_output_loss': 0.3620700538158417}
+2022-12-29 17:10:33,544 Epoch: 0 	Batch 1300: {'loss': 0.5303213596343994, 'reconstruction_output_loss': 0.0708894208073616, 'classification_output_loss': 0.6451793909072876}
+2022-12-29 17:12:28,873 Epoch: 0 	Batch 1400: {'loss': 0.27588218450546265, 'reconstruction_output_loss': 0.06827519834041595, 'classification_output_loss': 0.3277839422225952}
+2022-12-29 17:13:03,279 Epoch time 1707.0626909732819
+2022-12-29 17:13:03,279 Saving models
+2022-12-29 17:13:11,035 =====EPOCH 1=====
+2022-12-29 17:13:12,266 Epoch: 1 	Batch 0: {'loss': 0.4078505039215088, 'reconstruction_output_loss': 0.060953423380851746, 'classification_output_loss': 0.49457475543022156}
+2022-12-29 17:15:08,071 Epoch: 1 	Batch 100: {'loss': 0.23976266384124756, 'reconstruction_output_loss': 0.055825505405664444, 'classification_output_loss': 0.2857469618320465}
+2022-12-29 17:17:02,426 Epoch: 1 	Batch 200: {'loss': 0.28010398149490356, 'reconstruction_output_loss': 0.06798526644706726, 'classification_output_loss': 0.33313366770744324}
+2022-12-29 17:18:57,173 Epoch: 1 	Batch 300: {'loss': 0.3670465350151062, 'reconstruction_output_loss': 0.05895029380917549, 'classification_output_loss': 0.44407057762145996}
+2022-12-29 17:20:51,742 Epoch: 1 	Batch 400: {'loss': 0.3886749744415283, 'reconstruction_output_loss': 0.07180263102054596, 'classification_output_loss': 0.4678930640220642}
+2022-12-29 17:22:46,135 Epoch: 1 	Batch 500: {'loss': 0.3787224590778351, 'reconstruction_output_loss': 0.06757592409849167, 'classification_output_loss': 0.4565091133117676}
+2022-12-29 17:24:40,647 Epoch: 1 	Batch 600: {'loss': 0.27938294410705566, 'reconstruction_output_loss': 0.09074848890304565, 'classification_output_loss': 0.326541543006897}
+2022-12-29 17:26:36,390 Epoch: 1 	Batch 700: {'loss': 0.39012107253074646, 'reconstruction_output_loss': 0.06680978834629059, 'classification_output_loss': 0.47094887495040894}
+2022-12-29 17:28:33,377 Epoch: 1 	Batch 800: {'loss': 0.2367725670337677, 'reconstruction_output_loss': 0.06708974391222, 'classification_output_loss': 0.27919328212738037}
+2022-12-29 17:30:29,715 Epoch: 1 	Batch 900: {'loss': 0.20636893808841705, 'reconstruction_output_loss': 0.07571268081665039, 'classification_output_loss': 0.23903301358222961}
+2022-12-29 17:32:26,445 Epoch: 1 	Batch 1000: {'loss': 0.25911059975624084, 'reconstruction_output_loss': 0.0652352124452591, 'classification_output_loss': 0.3075794279575348}
+2022-12-29 17:34:22,940 Epoch: 1 	Batch 1100: {'loss': 0.34073606133461, 'reconstruction_output_loss': 0.07622997462749481, 'classification_output_loss': 0.4068625569343567}
+2022-12-29 17:36:19,462 Epoch: 1 	Batch 1200: {'loss': 0.2599271535873413, 'reconstruction_output_loss': 0.06132419407367706, 'classification_output_loss': 0.3095778822898865}
+2022-12-29 17:38:16,532 Epoch: 1 	Batch 1300: {'loss': 0.3722049295902252, 'reconstruction_output_loss': 0.06827551871538162, 'classification_output_loss': 0.44818729162216187}
+2022-12-29 17:40:13,595 Epoch: 1 	Batch 1400: {'loss': 0.17217111587524414, 'reconstruction_output_loss': 0.0616944320499897, 'classification_output_loss': 0.19979026913642883}
+2022-12-29 17:40:48,564 Epoch time 1657.528802871704
+2022-12-29 17:40:48,565 Saving models
+2022-12-29 17:40:57,120 =====EPOCH 2=====
+2022-12-29 17:40:58,388 Epoch: 2 	Batch 0: {'loss': 0.42501717805862427, 'reconstruction_output_loss': 0.05506327748298645, 'classification_output_loss': 0.5175056457519531}
+2022-12-29 17:42:56,105 Epoch: 2 	Batch 100: {'loss': 0.21451058983802795, 'reconstruction_output_loss': 0.05615435540676117, 'classification_output_loss': 0.25409963726997375}
+2022-12-29 17:44:52,262 Epoch: 2 	Batch 200: {'loss': 0.21289971470832825, 'reconstruction_output_loss': 0.0630396157503128, 'classification_output_loss': 0.250364750623703}
+2022-12-29 17:46:48,729 Epoch: 2 	Batch 300: {'loss': 0.42290955781936646, 'reconstruction_output_loss': 0.05379445105791092, 'classification_output_loss': 0.5151883363723755}
+2022-12-29 17:48:44,784 Epoch: 2 	Batch 400: {'loss': 0.34850504994392395, 'reconstruction_output_loss': 0.06445550173521042, 'classification_output_loss': 0.4195173978805542}
+2022-12-29 17:50:41,058 Epoch: 2 	Batch 500: {'loss': 0.3355729281902313, 'reconstruction_output_loss': 0.05330003425478935, 'classification_output_loss': 0.40614116191864014}
+2022-12-29 17:52:38,050 Epoch: 2 	Batch 600: {'loss': 0.2822006344795227, 'reconstruction_output_loss': 0.07477713376283646, 'classification_output_loss': 0.3340564966201782}
+2022-12-29 17:54:34,357 Epoch: 2 	Batch 700: {'loss': 0.3473740220069885, 'reconstruction_output_loss': 0.061615388840436935, 'classification_output_loss': 0.41881367564201355}
+2022-12-29 17:56:30,232 Epoch: 2 	Batch 800: {'loss': 0.2511683702468872, 'reconstruction_output_loss': 0.05822997912764549, 'classification_output_loss': 0.29940295219421387}
+2022-12-29 17:58:26,818 Epoch: 2 	Batch 900: {'loss': 0.18947163224220276, 'reconstruction_output_loss': 0.0645771399140358, 'classification_output_loss': 0.22069524228572845}
+2022-12-29 18:00:23,308 Epoch: 2 	Batch 1000: {'loss': 0.1678381860256195, 'reconstruction_output_loss': 0.05663423612713814, 'classification_output_loss': 0.19563916325569153}
+2022-12-29 18:02:18,981 Epoch: 2 	Batch 1100: {'loss': 0.2837905287742615, 'reconstruction_output_loss': 0.06204232946038246, 'classification_output_loss': 0.339227557182312}
+2022-12-29 18:04:14,700 Epoch: 2 	Batch 1200: {'loss': 0.19752627611160278, 'reconstruction_output_loss': 0.06101195514202118, 'classification_output_loss': 0.23165485262870789}
+2022-12-29 18:06:11,301 Epoch: 2 	Batch 1300: {'loss': 0.3165706992149353, 'reconstruction_output_loss': 0.06364911794662476, 'classification_output_loss': 0.37980109453201294}
+2022-12-29 18:08:07,875 Epoch: 2 	Batch 1400: {'loss': 0.1667945384979248, 'reconstruction_output_loss': 0.05489860475063324, 'classification_output_loss': 0.1947685182094574}
+2022-12-29 18:08:42,586 Epoch time 1665.4646389484406
+2022-12-29 18:08:42,586 Saving models
+2022-12-29 18:08:50,598 =====EPOCH 3=====
+2022-12-29 18:08:51,817 Epoch: 3 	Batch 0: {'loss': 0.30279242992401123, 'reconstruction_output_loss': 0.049499183893203735, 'classification_output_loss': 0.3661157488822937}
+2022-12-29 18:10:48,720 Epoch: 3 	Batch 100: {'loss': 0.20970100164413452, 'reconstruction_output_loss': 0.053631026297807693, 'classification_output_loss': 0.2487185001373291}
+2022-12-29 18:12:43,643 Epoch: 3 	Batch 200: {'loss': 0.20368589460849762, 'reconstruction_output_loss': 0.06044584512710571, 'classification_output_loss': 0.2394959181547165}
+2022-12-29 18:14:38,828 Epoch: 3 	Batch 300: {'loss': 0.3435717225074768, 'reconstruction_output_loss': 0.04866001382470131, 'classification_output_loss': 0.41729962825775146}
+2022-12-29 18:16:33,521 Epoch: 3 	Batch 400: {'loss': 0.31713441014289856, 'reconstruction_output_loss': 0.0601511113345623, 'classification_output_loss': 0.38138023018836975}
+2022-12-29 18:18:28,222 Epoch: 3 	Batch 500: {'loss': 0.30144941806793213, 'reconstruction_output_loss': 0.049113593995571136, 'classification_output_loss': 0.36453336477279663}
+2022-12-29 18:20:23,041 Epoch: 3 	Batch 600: {'loss': 0.20779788494110107, 'reconstruction_output_loss': 0.07242074608802795, 'classification_output_loss': 0.24164216220378876}
+2022-12-29 18:22:17,549 Epoch: 3 	Batch 700: {'loss': 0.32973161339759827, 'reconstruction_output_loss': 0.052954915910959244, 'classification_output_loss': 0.3989258110523224}
+2022-12-29 18:24:11,952 Epoch: 3 	Batch 800: {'loss': 0.21447524428367615, 'reconstruction_output_loss': 0.056873492896556854, 'classification_output_loss': 0.2538756728172302}
+2022-12-29 18:26:06,668 Epoch: 3 	Batch 900: {'loss': 0.16994181275367737, 'reconstruction_output_loss': 0.06064834073185921, 'classification_output_loss': 0.19726517796516418}
+2022-12-29 18:28:01,340 Epoch: 3 	Batch 1000: {'loss': 0.16432124376296997, 'reconstruction_output_loss': 0.05397653207182884, 'classification_output_loss': 0.19190742075443268}
+2022-12-29 18:29:56,519 Epoch: 3 	Batch 1100: {'loss': 0.2358345240354538, 'reconstruction_output_loss': 0.0628572627902031, 'classification_output_loss': 0.2790788412094116}
+2022-12-29 18:31:51,574 Epoch: 3 	Batch 1200: {'loss': 0.1780238002538681, 'reconstruction_output_loss': 0.05372564494609833, 'classification_output_loss': 0.20909833908081055}
+2022-12-29 18:33:46,836 Epoch: 3 	Batch 1300: {'loss': 0.3493862450122833, 'reconstruction_output_loss': 0.05621178448200226, 'classification_output_loss': 0.4226798415184021}
+2022-12-29 18:35:42,826 Epoch: 3 	Batch 1400: {'loss': 0.1692599207162857, 'reconstruction_output_loss': 0.05084292218089104, 'classification_output_loss': 0.1988641619682312}
+2022-12-29 18:36:17,892 Epoch time 1647.2945218086243
+2022-12-29 18:36:17,893 Saving models
+2022-12-29 18:36:25,710 =====EPOCH 4=====
+2022-12-29 18:36:26,941 Epoch: 4 	Batch 0: {'loss': 0.48924198746681213, 'reconstruction_output_loss': 0.044656116515398026, 'classification_output_loss': 0.6003884673118591}
+2022-12-29 18:38:23,308 Epoch: 4 	Batch 100: {'loss': 0.2100115269422531, 'reconstruction_output_loss': 0.048643335700035095, 'classification_output_loss': 0.2503535747528076}
+2022-12-29 18:40:18,436 Epoch: 4 	Batch 200: {'loss': 0.17143429815769196, 'reconstruction_output_loss': 0.06055086851119995, 'classification_output_loss': 0.19915515184402466}
+2022-12-29 18:42:13,246 Epoch: 4 	Batch 300: {'loss': 0.3442958891391754, 'reconstruction_output_loss': 0.047800611704587936, 'classification_output_loss': 0.4184197187423706}
+2022-12-29 18:44:08,483 Epoch: 4 	Batch 400: {'loss': 0.2429952323436737, 'reconstruction_output_loss': 0.05627356097102165, 'classification_output_loss': 0.28967565298080444}
+2022-12-29 18:46:03,633 Epoch: 4 	Batch 500: {'loss': 0.24540524184703827, 'reconstruction_output_loss': 0.04767448827624321, 'classification_output_loss': 0.29483792185783386}
+2022-12-29 18:47:58,658 Epoch: 4 	Batch 600: {'loss': 0.22087380290031433, 'reconstruction_output_loss': 0.06415636837482452, 'classification_output_loss': 0.2600531578063965}
+2022-12-29 18:49:54,003 Epoch: 4 	Batch 700: {'loss': 0.32612448930740356, 'reconstruction_output_loss': 0.04870842024683952, 'classification_output_loss': 0.3954784870147705}
+2022-12-29 18:51:48,884 Epoch: 4 	Batch 800: {'loss': 0.2216564565896988, 'reconstruction_output_loss': 0.056870508939027786, 'classification_output_loss': 0.2628529369831085}
+2022-12-29 18:53:43,704 Epoch: 4 	Batch 900: {'loss': 0.17710955440998077, 'reconstruction_output_loss': 0.057281821966171265, 'classification_output_loss': 0.20706647634506226}
+2022-12-29 18:55:38,757 Epoch: 4 	Batch 1000: {'loss': 0.16084341704845428, 'reconstruction_output_loss': 0.048332687467336655, 'classification_output_loss': 0.18897110223770142}
+2022-12-29 18:57:34,107 Epoch: 4 	Batch 1100: {'loss': 0.2510609030723572, 'reconstruction_output_loss': 0.05897984653711319, 'classification_output_loss': 0.29908114671707153}
+2022-12-29 18:59:29,070 Epoch: 4 	Batch 1200: {'loss': 0.1961354911327362, 'reconstruction_output_loss': 0.055375922471284866, 'classification_output_loss': 0.23132538795471191}
+2022-12-29 19:01:24,367 Epoch: 4 	Batch 1300: {'loss': 0.3377242386341095, 'reconstruction_output_loss': 0.052611202001571655, 'classification_output_loss': 0.40900248289108276}
+2022-12-29 19:03:20,288 Epoch: 4 	Batch 1400: {'loss': 0.1592373549938202, 'reconstruction_output_loss': 0.05124269798398018, 'classification_output_loss': 0.18623600900173187}
+2022-12-29 19:03:55,564 Epoch time 1649.8536489009857
+2022-12-29 19:03:55,564 Saving models
+2022-12-29 19:04:03,297 =====EPOCH 5=====
+2022-12-29 19:04:04,534 Epoch: 5 	Batch 0: {'loss': 0.27094894647598267, 'reconstruction_output_loss': 0.042274389415979385, 'classification_output_loss': 0.3281175494194031}
+2022-12-29 19:06:00,774 Epoch: 5 	Batch 100: {'loss': 0.17571495473384857, 'reconstruction_output_loss': 0.047807663679122925, 'classification_output_loss': 0.2076917588710785}
+2022-12-29 19:07:55,570 Epoch: 5 	Batch 200: {'loss': 0.20217175781726837, 'reconstruction_output_loss': 0.051939111202955246, 'classification_output_loss': 0.23972991108894348}
+2022-12-29 19:09:50,599 Epoch: 5 	Batch 300: {'loss': 0.2967159152030945, 'reconstruction_output_loss': 0.048133816570043564, 'classification_output_loss': 0.35886141657829285}
+2022-12-29 19:11:45,291 Epoch: 5 	Batch 400: {'loss': 0.18296204507350922, 'reconstruction_output_loss': 0.050137221813201904, 'classification_output_loss': 0.21616825461387634}
+2022-12-29 19:13:40,026 Epoch: 5 	Batch 500: {'loss': 0.2794921398162842, 'reconstruction_output_loss': 0.04841277375817299, 'classification_output_loss': 0.33726197481155396}
+2022-12-29 19:15:34,940 Epoch: 5 	Batch 600: {'loss': 0.22223301231861115, 'reconstruction_output_loss': 0.060204509645700455, 'classification_output_loss': 0.2627401351928711}
+2022-12-29 19:17:29,870 Epoch: 5 	Batch 700: {'loss': 0.28170111775398254, 'reconstruction_output_loss': 0.04793836548924446, 'classification_output_loss': 0.34014180302619934}
+2022-12-29 19:19:24,859 Epoch: 5 	Batch 800: {'loss': 0.20619890093803406, 'reconstruction_output_loss': 0.05000555142760277, 'classification_output_loss': 0.2452472448348999}
+2022-12-29 19:21:19,783 Epoch: 5 	Batch 900: {'loss': 0.17298316955566406, 'reconstruction_output_loss': 0.05694684386253357, 'classification_output_loss': 0.2019922435283661}
+2022-12-29 19:23:14,393 Epoch: 5 	Batch 1000: {'loss': 0.1356782615184784, 'reconstruction_output_loss': 0.04630230739712715, 'classification_output_loss': 0.15802225470542908}
+2022-12-29 19:25:09,259 Epoch: 5 	Batch 1100: {'loss': 0.18121550977230072, 'reconstruction_output_loss': 0.050740815699100494, 'classification_output_loss': 0.21383418142795563}
+2022-12-29 19:27:04,263 Epoch: 5 	Batch 1200: {'loss': 0.1486065536737442, 'reconstruction_output_loss': 0.04648449644446373, 'classification_output_loss': 0.17413707077503204}
+2022-12-29 19:28:59,195 Epoch: 5 	Batch 1300: {'loss': 0.29946866631507874, 'reconstruction_output_loss': 0.04799081012606621, 'classification_output_loss': 0.362338125705719}
+2022-12-29 19:30:54,807 Epoch: 5 	Batch 1400: {'loss': 0.17453758418560028, 'reconstruction_output_loss': 0.052931394428014755, 'classification_output_loss': 0.2049391269683838}
+2022-12-29 19:31:29,788 Epoch time 1646.4909901618958
+2022-12-29 19:31:29,788 Saving models
+2022-12-29 19:31:37,503 =====EPOCH 6=====
+2022-12-29 19:31:38,690 Epoch: 6 	Batch 0: {'loss': 0.2945200204849243, 'reconstruction_output_loss': 0.04081813991069794, 'classification_output_loss': 0.3579454720020294}
+2022-12-29 19:33:34,789 Epoch: 6 	Batch 100: {'loss': 0.20341919362545013, 'reconstruction_output_loss': 0.04986168071627617, 'classification_output_loss': 0.24180856347084045}
+2022-12-29 19:35:29,357 Epoch: 6 	Batch 200: {'loss': 0.11563460528850555, 'reconstruction_output_loss': 0.05479816719889641, 'classification_output_loss': 0.13084371387958527}
+2022-12-29 19:37:23,977 Epoch: 6 	Batch 300: {'loss': 0.26012134552001953, 'reconstruction_output_loss': 0.04514298215508461, 'classification_output_loss': 0.31386592984199524}
+2022-12-29 19:39:18,575 Epoch: 6 	Batch 400: {'loss': 0.20701149106025696, 'reconstruction_output_loss': 0.05298570916056633, 'classification_output_loss': 0.24551793932914734}
+2022-12-29 19:41:13,337 Epoch: 6 	Batch 500: {'loss': 0.27475470304489136, 'reconstruction_output_loss': 0.04315345361828804, 'classification_output_loss': 0.33265501260757446}
+2022-12-29 19:43:08,693 Epoch: 6 	Batch 600: {'loss': 0.24106578528881073, 'reconstruction_output_loss': 0.05699943006038666, 'classification_output_loss': 0.28708237409591675}
+2022-12-29 19:45:03,602 Epoch: 6 	Batch 700: {'loss': 0.2614666819572449, 'reconstruction_output_loss': 0.04489244148135185, 'classification_output_loss': 0.31561022996902466}
+2022-12-29 19:46:59,099 Epoch: 6 	Batch 800: {'loss': 0.17798882722854614, 'reconstruction_output_loss': 0.051216281950473785, 'classification_output_loss': 0.20968197286128998}
+2022-12-29 19:48:54,159 Epoch: 6 	Batch 900: {'loss': 0.1602211892604828, 'reconstruction_output_loss': 0.05725567415356636, 'classification_output_loss': 0.18596255779266357}
+2022-12-29 19:50:49,515 Epoch: 6 	Batch 1000: {'loss': 0.14034543931484222, 'reconstruction_output_loss': 0.04457646980881691, 'classification_output_loss': 0.16428768634796143}
+2022-12-29 19:52:44,155 Epoch: 6 	Batch 1100: {'loss': 0.18974383175373077, 'reconstruction_output_loss': 0.048548225313425064, 'classification_output_loss': 0.22504273056983948}
+2022-12-29 19:54:38,979 Epoch: 6 	Batch 1200: {'loss': 0.1418839693069458, 'reconstruction_output_loss': 0.04966294765472412, 'classification_output_loss': 0.16493922472000122}
+2022-12-29 19:56:34,438 Epoch: 6 	Batch 1300: {'loss': 0.35810816287994385, 'reconstruction_output_loss': 0.04581955075263977, 'classification_output_loss': 0.4361802935600281}
+2022-12-29 19:58:30,341 Epoch: 6 	Batch 1400: {'loss': 0.17366135120391846, 'reconstruction_output_loss': 0.045747511088848114, 'classification_output_loss': 0.2056398093700409}
+2022-12-29 19:59:05,482 Epoch time 1647.9780552387238
+2022-12-29 19:59:05,482 Saving models
+2022-12-29 19:59:13,513 =====EPOCH 7=====
+2022-12-29 19:59:14,685 Epoch: 7 	Batch 0: {'loss': 0.27987900376319885, 'reconstruction_output_loss': 0.03654874116182327, 'classification_output_loss': 0.3407115936279297}
+2022-12-29 20:01:11,314 Epoch: 7 	Batch 100: {'loss': 0.13861872255802155, 'reconstruction_output_loss': 0.04646703228354454, 'classification_output_loss': 0.16165664792060852}
+2022-12-29 20:03:06,267 Epoch: 7 	Batch 200: {'loss': 0.12479268014431, 'reconstruction_output_loss': 0.048515915870666504, 'classification_output_loss': 0.14386187493801117}
+2022-12-29 20:05:00,791 Epoch: 7 	Batch 300: {'loss': 0.24377310276031494, 'reconstruction_output_loss': 0.042846422642469406, 'classification_output_loss': 0.29400476813316345}
+2022-12-29 20:06:55,717 Epoch: 7 	Batch 400: {'loss': 0.16137683391571045, 'reconstruction_output_loss': 0.05000162869691849, 'classification_output_loss': 0.1892206370830536}
+2022-12-29 20:08:50,652 Epoch: 7 	Batch 500: {'loss': 0.245714470744133, 'reconstruction_output_loss': 0.03857824206352234, 'classification_output_loss': 0.29749852418899536}
+2022-12-29 20:10:45,767 Epoch: 7 	Batch 600: {'loss': 0.16537079215049744, 'reconstruction_output_loss': 0.05588110163807869, 'classification_output_loss': 0.1927432119846344}
+2022-12-29 20:12:41,223 Epoch: 7 	Batch 700: {'loss': 0.28361693024635315, 'reconstruction_output_loss': 0.04414235055446625, 'classification_output_loss': 0.34348559379577637}
+2022-12-29 20:14:36,291 Epoch: 7 	Batch 800: {'loss': 0.1616317480802536, 'reconstruction_output_loss': 0.04577286168932915, 'classification_output_loss': 0.19059646129608154}
+2022-12-29 20:16:31,228 Epoch: 7 	Batch 900: {'loss': 0.1797945648431778, 'reconstruction_output_loss': 0.052686434239149094, 'classification_output_loss': 0.211571604013443}
+2022-12-29 20:18:26,577 Epoch: 7 	Batch 1000: {'loss': 0.13063573837280273, 'reconstruction_output_loss': 0.037294283509254456, 'classification_output_loss': 0.1539711058139801}
+2022-12-29 20:20:22,244 Epoch: 7 	Batch 1100: {'loss': 0.19887098670005798, 'reconstruction_output_loss': 0.04580729454755783, 'classification_output_loss': 0.23713690042495728}
+2022-12-29 20:22:17,006 Epoch: 7 	Batch 1200: {'loss': 0.11138627678155899, 'reconstruction_output_loss': 0.043366439640522, 'classification_output_loss': 0.12839123606681824}
+2022-12-29 20:24:12,424 Epoch: 7 	Batch 1300: {'loss': 0.34006279706954956, 'reconstruction_output_loss': 0.04103242605924606, 'classification_output_loss': 0.4148203730583191}
+2022-12-29 20:26:08,218 Epoch: 7 	Batch 1400: {'loss': 0.14506132900714874, 'reconstruction_output_loss': 0.04085060581564903, 'classification_output_loss': 0.1711139976978302}
+2022-12-29 20:26:43,495 Epoch time 1649.9813120365143
+2022-12-29 20:26:43,495 Saving models
+2022-12-29 20:26:51,283 =====EPOCH 8=====
+2022-12-29 20:26:52,467 Epoch: 8 	Batch 0: {'loss': 0.29313936829566956, 'reconstruction_output_loss': 0.03526182472705841, 'classification_output_loss': 0.35760873556137085}
+2022-12-29 20:28:48,123 Epoch: 8 	Batch 100: {'loss': 0.1614440679550171, 'reconstruction_output_loss': 0.04505123943090439, 'classification_output_loss': 0.1905422806739807}
+2022-12-29 20:30:41,996 Epoch: 8 	Batch 200: {'loss': 0.11543913930654526, 'reconstruction_output_loss': 0.046631380915641785, 'classification_output_loss': 0.13264107704162598}
+2022-12-29 20:32:36,090 Epoch: 8 	Batch 300: {'loss': 0.13608083128929138, 'reconstruction_output_loss': 0.04275413975119591, 'classification_output_loss': 0.15941250324249268}
+2022-12-29 20:34:30,546 Epoch: 8 	Batch 400: {'loss': 0.17636755108833313, 'reconstruction_output_loss': 0.04371853172779083, 'classification_output_loss': 0.2095298022031784}
+2022-12-29 20:36:25,027 Epoch: 8 	Batch 500: {'loss': 0.2073855847120285, 'reconstruction_output_loss': 0.03844122588634491, 'classification_output_loss': 0.2496216744184494}
+2022-12-29 20:38:19,205 Epoch: 8 	Batch 600: {'loss': 0.19734981656074524, 'reconstruction_output_loss': 0.04923813045024872, 'classification_output_loss': 0.23437772691249847}
+2022-12-29 20:40:13,668 Epoch: 8 	Batch 700: {'loss': 0.2105775773525238, 'reconstruction_output_loss': 0.03872065618634224, 'classification_output_loss': 0.2535417973995209}
+2022-12-29 20:42:08,391 Epoch: 8 	Batch 800: {'loss': 0.1545010358095169, 'reconstruction_output_loss': 0.046245064586400986, 'classification_output_loss': 0.18156501650810242}
+2022-12-29 20:44:02,822 Epoch: 8 	Batch 900: {'loss': 0.14845073223114014, 'reconstruction_output_loss': 0.050145797431468964, 'classification_output_loss': 0.17302697896957397}
+2022-12-29 20:45:57,384 Epoch: 8 	Batch 1000: {'loss': 0.10001949965953827, 'reconstruction_output_loss': 0.038820456713438034, 'classification_output_loss': 0.11531925946474075}
+2022-12-29 20:47:51,801 Epoch: 8 	Batch 1100: {'loss': 0.21313463151454926, 'reconstruction_output_loss': 0.041188277304172516, 'classification_output_loss': 0.2561212182044983}
+2022-12-29 20:49:46,520 Epoch: 8 	Batch 1200: {'loss': 0.1539086103439331, 'reconstruction_output_loss': 0.040861472487449646, 'classification_output_loss': 0.18217039108276367}
+2022-12-29 20:51:41,866 Epoch: 8 	Batch 1300: {'loss': 0.3118208944797516, 'reconstruction_output_loss': 0.04147888347506523, 'classification_output_loss': 0.3794063925743103}
+2022-12-29 20:53:36,830 Epoch: 8 	Batch 1400: {'loss': 0.15596185624599457, 'reconstruction_output_loss': 0.03910036012530327, 'classification_output_loss': 0.18517723679542542}
+2022-12-29 20:54:11,959 Epoch time 1640.6758298873901
+2022-12-29 20:54:11,960 Saving models
+2022-12-29 20:54:19,927 =====EPOCH 9=====
+2022-12-29 20:54:21,145 Epoch: 9 	Batch 0: {'loss': 0.27857688069343567, 'reconstruction_output_loss': 0.03255843371152878, 'classification_output_loss': 0.34008148312568665}
+2022-12-29 20:56:16,246 Epoch: 9 	Batch 100: {'loss': 0.1801796853542328, 'reconstruction_output_loss': 0.04363004490733147, 'classification_output_loss': 0.21431708335876465}
+2022-12-29 20:58:10,073 Epoch: 9 	Batch 200: {'loss': 0.11336766928434372, 'reconstruction_output_loss': 0.03876205161213875, 'classification_output_loss': 0.1320190727710724}
+2022-12-29 21:00:04,350 Epoch: 9 	Batch 300: {'loss': 0.18590950965881348, 'reconstruction_output_loss': 0.040349479764699936, 'classification_output_loss': 0.2222995012998581}
+2022-12-29 21:01:58,503 Epoch: 9 	Batch 400: {'loss': 0.1480526179075241, 'reconstruction_output_loss': 0.043656691908836365, 'classification_output_loss': 0.17415159940719604}
+2022-12-29 21:03:52,381 Epoch: 9 	Batch 500: {'loss': 0.24803921580314636, 'reconstruction_output_loss': 0.03769025579094887, 'classification_output_loss': 0.3006264567375183}
+2022-12-29 21:05:46,626 Epoch: 9 	Batch 600: {'loss': 0.13522019982337952, 'reconstruction_output_loss': 0.05002400651574135, 'classification_output_loss': 0.15651924908161163}
+2022-12-29 21:07:40,918 Epoch: 9 	Batch 700: {'loss': 0.19875921308994293, 'reconstruction_output_loss': 0.0389997698366642, 'classification_output_loss': 0.2386990785598755}
+2022-12-29 21:09:35,229 Epoch: 9 	Batch 800: {'loss': 0.1626070886850357, 'reconstruction_output_loss': 0.0451611652970314, 'classification_output_loss': 0.19196856021881104}
+2022-12-29 21:11:30,046 Epoch: 9 	Batch 900: {'loss': 0.13716723024845123, 'reconstruction_output_loss': 0.04603154957294464, 'classification_output_loss': 0.15995115041732788}
+2022-12-29 21:13:23,659 Epoch: 9 	Batch 1000: {'loss': 0.09522689133882523, 'reconstruction_output_loss': 0.039492662996053696, 'classification_output_loss': 0.10916044563055038}
+2022-12-29 21:15:17,652 Epoch: 9 	Batch 1100: {'loss': 0.18420222401618958, 'reconstruction_output_loss': 0.0396912544965744, 'classification_output_loss': 0.22032997012138367}
+2022-12-29 21:17:12,528 Epoch: 9 	Batch 1200: {'loss': 0.09221325069665909, 'reconstruction_output_loss': 0.04084339737892151, 'classification_output_loss': 0.10505570471286774}
+2022-12-29 21:19:06,886 Epoch: 9 	Batch 1300: {'loss': 0.24629603326320648, 'reconstruction_output_loss': 0.039700064808130264, 'classification_output_loss': 0.2979450225830078}
+2022-12-29 21:21:01,915 Epoch: 9 	Batch 1400: {'loss': 0.1169738620519638, 'reconstruction_output_loss': 0.04261057451367378, 'classification_output_loss': 0.1355646848678589}
+2022-12-29 21:21:37,087 Epoch time 1637.1591107845306
+2022-12-29 21:21:37,087 Saving models
+2022-12-29 21:21:44,790 =====EPOCH 10=====
+2022-12-29 21:21:46,013 Epoch: 10 	Batch 0: {'loss': 0.4173879027366638, 'reconstruction_output_loss': 0.033645760267972946, 'classification_output_loss': 0.5133234262466431}
+2022-12-29 21:23:41,593 Epoch: 10 	Batch 100: {'loss': 0.09610091149806976, 'reconstruction_output_loss': 0.04092417284846306, 'classification_output_loss': 0.10989509522914886}
+2022-12-29 21:25:35,957 Epoch: 10 	Batch 200: {'loss': 0.09524558484554291, 'reconstruction_output_loss': 0.03933349996805191, 'classification_output_loss': 0.10922360420227051}
+2022-12-29 21:27:30,057 Epoch: 10 	Batch 300: {'loss': 0.1559065282344818, 'reconstruction_output_loss': 0.037137892097234726, 'classification_output_loss': 0.185598686337471}
+2022-12-29 21:29:24,457 Epoch: 10 	Batch 400: {'loss': 0.14025422930717468, 'reconstruction_output_loss': 0.04222241789102554, 'classification_output_loss': 0.16476216912269592}
+2022-12-29 21:31:19,074 Epoch: 10 	Batch 500: {'loss': 0.19031774997711182, 'reconstruction_output_loss': 0.0354769229888916, 'classification_output_loss': 0.22902795672416687}
+2022-12-29 21:33:13,697 Epoch: 10 	Batch 600: {'loss': 0.12254604697227478, 'reconstruction_output_loss': 0.048186611384153366, 'classification_output_loss': 0.14113590121269226}
+2022-12-29 21:35:08,350 Epoch: 10 	Batch 700: {'loss': 0.18254531919956207, 'reconstruction_output_loss': 0.03873283788561821, 'classification_output_loss': 0.21849843859672546}
+2022-12-29 21:37:02,786 Epoch: 10 	Batch 800: {'loss': 0.10775763541460037, 'reconstruction_output_loss': 0.04459284991025925, 'classification_output_loss': 0.12354883551597595}
+2022-12-29 21:38:57,119 Epoch: 10 	Batch 900: {'loss': 0.1368241161108017, 'reconstruction_output_loss': 0.04745560884475708, 'classification_output_loss': 0.15916624665260315}
+2022-12-29 21:40:51,175 Epoch: 10 	Batch 1000: {'loss': 0.08110726624727249, 'reconstruction_output_loss': 0.03629918396472931, 'classification_output_loss': 0.09230928122997284}
+2022-12-29 21:42:46,060 Epoch: 10 	Batch 1100: {'loss': 0.1710093468427658, 'reconstruction_output_loss': 0.04206956550478935, 'classification_output_loss': 0.20324429869651794}
+2022-12-29 21:44:40,131 Epoch: 10 	Batch 1200: {'loss': 0.1186428889632225, 'reconstruction_output_loss': 0.03870797157287598, 'classification_output_loss': 0.13862662017345428}
+2022-12-29 21:46:35,134 Epoch: 10 	Batch 1300: {'loss': 0.3345012366771698, 'reconstruction_output_loss': 0.04057129845023155, 'classification_output_loss': 0.4079837203025818}
+2022-12-29 21:48:30,442 Epoch: 10 	Batch 1400: {'loss': 0.09872543811798096, 'reconstruction_output_loss': 0.04176980257034302, 'classification_output_loss': 0.11296433955430984}
+2022-12-29 21:49:06,277 Epoch time 1641.4860184192657
+2022-12-29 21:49:06,277 Saving models
+2022-12-29 21:49:13,903 =====EPOCH 11=====
+2022-12-29 21:49:15,122 Epoch: 11 	Batch 0: {'loss': 0.2616584897041321, 'reconstruction_output_loss': 0.03468196839094162, 'classification_output_loss': 0.31840258836746216}
+2022-12-29 21:51:10,044 Epoch: 11 	Batch 100: {'loss': 0.07184091210365295, 'reconstruction_output_loss': 0.041537754237651825, 'classification_output_loss': 0.07941669225692749}
+2022-12-29 21:53:02,679 Epoch: 11 	Batch 200: {'loss': 0.06448760628700256, 'reconstruction_output_loss': 0.04049631580710411, 'classification_output_loss': 0.0704854279756546}
+2022-12-29 21:54:57,423 Epoch: 11 	Batch 300: {'loss': 0.07337633520364761, 'reconstruction_output_loss': 0.0378992035984993, 'classification_output_loss': 0.08224561810493469}
+2022-12-29 21:56:51,179 Epoch: 11 	Batch 400: {'loss': 0.12838022410869598, 'reconstruction_output_loss': 0.042379915714263916, 'classification_output_loss': 0.1498803049325943}
+2022-12-29 21:58:45,140 Epoch: 11 	Batch 500: {'loss': 0.22216178476810455, 'reconstruction_output_loss': 0.03510904684662819, 'classification_output_loss': 0.2689249515533447}
+2022-12-29 22:00:38,339 Epoch: 11 	Batch 600: {'loss': 0.09261704981327057, 'reconstruction_output_loss': 0.0484798289835453, 'classification_output_loss': 0.10365135967731476}
+2022-12-29 22:02:32,402 Epoch: 11 	Batch 700: {'loss': 0.20340964198112488, 'reconstruction_output_loss': 0.03748879209160805, 'classification_output_loss': 0.24488985538482666}
+2022-12-29 22:04:27,068 Epoch: 11 	Batch 800: {'loss': 0.11215506494045258, 'reconstruction_output_loss': 0.04254353418946266, 'classification_output_loss': 0.12955795228481293}
+2022-12-29 22:06:20,971 Epoch: 11 	Batch 900: {'loss': 0.16072742640972137, 'reconstruction_output_loss': 0.04204791784286499, 'classification_output_loss': 0.19039729237556458}
+2022-12-29 22:08:15,285 Epoch: 11 	Batch 1000: {'loss': 0.07442669570446014, 'reconstruction_output_loss': 0.03311747685074806, 'classification_output_loss': 0.08475400507450104}
+2022-12-29 22:10:09,944 Epoch: 11 	Batch 1100: {'loss': 0.13230133056640625, 'reconstruction_output_loss': 0.03842733055353165, 'classification_output_loss': 0.15576983988285065}
+2022-12-29 22:12:03,876 Epoch: 11 	Batch 1200: {'loss': 0.10460356622934341, 'reconstruction_output_loss': 0.03604815900325775, 'classification_output_loss': 0.12174241989850998}
+2022-12-29 22:13:58,643 Epoch: 11 	Batch 1300: {'loss': 0.32094115018844604, 'reconstruction_output_loss': 0.037193093448877335, 'classification_output_loss': 0.3918781578540802}
+2022-12-29 22:15:53,906 Epoch: 11 	Batch 1400: {'loss': 0.08261272311210632, 'reconstruction_output_loss': 0.035695042461156845, 'classification_output_loss': 0.09434214234352112}
+2022-12-29 22:16:29,562 Epoch time 1635.6589527130127
+2022-12-29 22:16:29,563 Saving models
